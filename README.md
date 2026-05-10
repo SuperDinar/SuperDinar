@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SuperDinar
-- 👀 I’m interested in Product Management & Unity Development
-- 🌱 I’m currently learning to develop Smart Contracts 
-- 💞️ I’m looking to collaborate on exciting and Fun Projects
+- 👀 I lead product strategy, product roadmaps, and service design initiatives for enterprise clients in manufacturing, retail, and telecom sectors. 
+- ✨ I’m looking to collaborate on exciting Projects
